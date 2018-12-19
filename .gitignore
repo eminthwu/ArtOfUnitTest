@@ -18,3 +18,5 @@ TestResults
 [Tt]humbs.db 
 _ReSharper.*
 *.resharper
+/ArtOfUnitTesting2ndEd.Samples/Chapter1/*
+/ArtOfUnitTesting2ndEd.Samples/packages
